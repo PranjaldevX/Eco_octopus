@@ -248,13 +248,13 @@ final_eco_nexus/
     <td align="center">
       <img src="https://ui-avatars.com/api/?name=Pranjal+Yadav&background=059669&color=fff&size=100" width="100px;" alt="Pranjal Yadav"/><br />
       <sub><b>Pranjal Yadav</b></sub><br />
-      <sub>Frontend Developer</sub><br />
+      <sub>Researcher & Frontend Developer</sub><br />
       <sub>UI/UX Development | Research | Testing</sub>
     </td>
     <td align="center">
       <img src="https://ui-avatars.com/api/?name=Naved+Alam&background=14b8a6&color=fff&size=100" width="100px;" alt="Naved Alam"/><br />
       <sub><b>Naved Alam</b></sub><br />
-      <sub>Research & Design</sub><br />
+      <sub>Researcher & Designer</sub><br />
       <sub>Research Assistant | UI/UX Designer</sub>
     </td>
   </tr>
@@ -463,4 +463,5 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 © 2024 EcoNexus Team. All rights reserved.
 
 </div>
+
 
