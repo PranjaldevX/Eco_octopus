@@ -4,13 +4,11 @@
 
 ![EcoNexus Logo](https://img.shields.io/badge/EcoNexus-Sustainable%20Future-10b981?style=for-the-badge&logo=recycle)
 
-**Transform Waste Into Rewards & Impact**
+**Recycle. Earn. Impact — with EcoNexus**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://your-site.netlify.app)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://outside-robenia-nexus007-dafbb230.koyeb.app/)
 
-[Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Deployment](#-deployment) • [Team](#-team) • [License](#-license)
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Team](#-team) 
 
 </div>
 
@@ -70,12 +68,10 @@ A world where every product has a complete, transparent lifecycle, and every ind
 
 ### Backend
 - **Authentication API**: Flask (Python)
-  - Deployed on Vercel: `https://eco-login.vercel.app`
   - Handles customer, company, and admin authentication
   - Company verification system
   
 - **Products API**: FastAPI (Python)
-  - Deployed on Vercel: `https://api-hack-virid.vercel.app`
   - Product management and CRUD operations
   - Reward calculations
   - Pickup request handling
@@ -87,8 +83,8 @@ A world where every product has a complete, transparent lifecycle, and every ind
 - **Session Store**: PostgreSQL with connect-pg-simple
 
 ### DevOps & Deployment
-- **Frontend Hosting**: Netlify
-- **Backend Hosting**: Vercel
+- **Frontend Hosting**: Koyeb
+- **Backend Hosting**: Koyeb
 - **Version Control**: Git & GitHub
 - **CI/CD**: Netlify automatic deployments
 - **SSL**: Automatic HTTPS via Netlify
@@ -107,7 +103,7 @@ A world where every product has a complete, transparent lifecycle, and every ind
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/econexus.git
+   git clone https://github.com/PranjaldevX/Eco_octopus.git
    cd econexus/final_eco_nexus
    ```
 
@@ -143,27 +139,7 @@ npx vite preview
 
 ---
 
-## 🌐 Deployment
 
-### Quick Deploy to Netlify
-
-#### Option 1: Drag & Drop (2 Minutes)
-```bash
-npm run build
-```
-Then drag the `dist` folder to https://app.netlify.com/drop
-
-#### Option 2: GitHub Integration (5 Minutes)
-1. Push code to GitHub
-2. Connect repository to Netlify
-3. Netlify auto-detects settings from `netlify.toml`
-4. Deploy!
-
-**Detailed deployment guide**: See [NETLIFY_DEPLOYMENT_GUIDE.md](NETLIFY_DEPLOYMENT_GUIDE.md)
-
-**Quick start**: See [QUICK_DEPLOY.md](QUICK_DEPLOY.md)
-
----
 
 ## 🎨 Design Features
 
@@ -294,21 +270,21 @@ final_eco_nexus/
 - API integration and testing
 - Performance monitoring
 
-#### 💻 Pranjal Yadav - Frontend Developer
+#### 💻 Pranjal Yadav -Research & Frontend Developer
 - Frontend architecture and development
 - UI/UX implementation
 - Research and feature planning
-- Quality assurance and testing
 - User experience optimization
 - Cross-browser compatibility
 
-#### 🎨 Naved Alam - Research & Design
+#### 🎨 Naved Alam - Design & Resaerch
 - User research and analysis
 - UI/UX design and prototyping
 - Design system development
-- User flow optimization
+- User flow optimizatio
 - Visual design and branding
 - Research assistance
+- Quality assurance and testing
 
 ---
 
@@ -441,12 +417,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Radix UI** - For accessible UI components
@@ -493,3 +463,4 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 © 2024 EcoNexus Team. All rights reserved.
 
 </div>
+
