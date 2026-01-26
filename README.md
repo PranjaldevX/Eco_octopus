@@ -6,7 +6,7 @@
 
 **Recycle. Earn. Impact — with EcoNexus**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://eco-nexus.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://circular-economy1.netlify.app/)
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Team](#-team) 
 
@@ -463,6 +463,7 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 © 2024 EcoNexus Team. All rights reserved.
 
 </div>
+
 
 
 
