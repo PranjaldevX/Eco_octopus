@@ -46,8 +46,8 @@ export default function HomePage() {
 
       {/* Hero Section with Animated Waves */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
-        {/* Animated Gradient Background */}
-        <div className="absolute inset-0 bg-gradient-to-br from-green-400 via-emerald-500 to-teal-600">
+        {/* Lighter Green Background */}
+        <div className="absolute inset-0 bg-[#4ade80]">
           <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48cGF0dGVybiBpZD0iZ3JpZCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj48cGF0aCBkPSJNIDQwIDAgTCAwIDAgMCA0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLW9wYWNpdHk9IjAuMSIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyaWQpIi8+PC9zdmc+')] opacity-20"></div>
         </div>
 
@@ -97,21 +97,7 @@ export default function HomePage() {
               </Link>
             </div>
 
-            {/* Stats */}
-            <div className="grid grid-cols-3 gap-8 mt-16 max-w-2xl mx-auto">
-              <div className="text-center">
-                <div className="text-4xl font-bold text-white mb-2">10K+</div>
-                <div className="text-white/80 text-sm">Active Users</div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl font-bold text-white mb-2">50K+</div>
-                <div className="text-white/80 text-sm">Products Recycled</div>
-              </div>
-              <div className="text-center">
-                <div className="text-4xl font-bold text-white mb-2">₹2M+</div>
-                <div className="text-white/80 text-sm">Rewards Earned</div>
-              </div>
-            </div>
+
           </div>
         </div>
 
